@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "apparel-html-email",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
